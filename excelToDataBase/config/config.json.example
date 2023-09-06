@@ -1,0 +1,14 @@
+{
+    "MSSQLCredential": {
+        "mssql_server": "**.**.*.***",
+        "mssql_port": "1433",
+        "mssql_database": "*****",
+        "mssql_username": "*****",
+        "mssql_password": "*****",
+        "mssql_schema": "****",
+        "destination_table": "*****",
+        "destination_total_table": "****",
+        "operationType": "Append / Refresh **"
+    },
+    "FILEPATH": "/home/arun/Desktop/nowcfo_extra/extra_28th"
+}
